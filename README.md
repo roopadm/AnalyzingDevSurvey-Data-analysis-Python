@@ -12,7 +12,7 @@ This repository contains an in-depth exploratory data analysis (EDA) and data vi
 
 The project uses various Python libraries, including Pandas, Matplotlib, Seaborn, and Plotly,this repository provides a comprehensive analysis of the survey data, including descriptive statistics, data cleaning, data preprocessing, and data visualization.
 
-<b>For fully narative version of this analysis: <a href="https://www.kaggle.com/code/roopamoorthy/an-analysis-of-developer-communities-so-2022/notebook">check out my Jupyter notebook.</a></b>
+<b>For full narative version of this analysis: <a href="https://www.kaggle.com/code/roopamoorthy/an-analysis-of-developer-communities-so-2022/notebook">check out my Jupyter notebook.</a></b>
 
 <p align="center"> <a href="https://www.kaggle.com/code/roopamoorthy/an-analysis-of-developer-communities-so-2022/notebook" target="_blank"> <img src="https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python/blob/main/Images/The%20StackOver.png" alt="Projectimage" width="80%" height="10%"/> </a> </p>
 
@@ -44,16 +44,15 @@ According to source: <a href="https://survey.stackoverflow.co/2022/#methodology-
 * Asking and answering interesting questions.
 * Summarizing inferences and drawing conclusions.
 
-### Objective
-* Demographics: To examine the distribution of respondents by gender, age, and education level across different countries.
-
-* Employment Status: To explores the distribution of respondents across different employment statuses and roles in their professional life.
-
-* Programming Languages: To investigate the popular programming languages of 2022,languages people want to work with,the most liked languages among respondents, and the languages preferred by different types of companies.
-
-* Learning to Code: To examines how respondents are learning to code and the importance of starting young to build a career in programming.
-
-* Miscellaneous: This project also looks into respondents' mental health disorders, time spent on problem-solving at work, female respondents' professions, countries   with female respondents, and respondents' attitude towards Blockchain. Additionally, the project also explores the percentage of respondents by gender who have coding as a hobby and the top 15 countries where respondents have coding as a hobby.
+### Objective 
+<small> 
+  
+* Examine respondent demographics by gender, age, and education level across countries.
+* Explore the distribution of respondents across employment statuses and professional roles.
+* Investigate popular programming languages of 2022, preferred languages by company types, and respondents' favorite languages.
+* Examine how respondents learn to code and the importance of starting young in programming careers.
+* Investigate miscellaneous topics, including respondents' mental health, problem-solving time at work, female respondents' professions, and attitudes towards Blockchain. Additionally, explore the percentage of respondents by gender who have coding as a hobby and the top 15 countries where respondents have coding as a hobby.
+</small>
 
 ## Exploratory analysis and visualization
 Before, we start asking right questions the best is to start with knowing respondents better such as their demographics like country, gender, employment type, education etc.
