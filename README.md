@@ -89,3 +89,11 @@ I have added quick snapshots of what the project brings to you.
 <p align="center"> <a href="https://www.kaggle.com/code/roopamoorthy/an-analysis-of-developer-communities-so-2022/notebook" target="_blank"> <img src="https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python/blob/main/Images/likedlanguages.png" alt="Languages" width="50%" height="50%"/> </a> </p>
 
 <h3 style="font-size:30px;color:green;"><a href="https://www.kaggle.com/code/roopamoorthy/an-analysis-of-developer-communities-so-2022/notebook">and much more on my jupyter notebook</a></h3>
+
+
+## Check out my other projects too : :mag: 👨‍💻 🛰️
+
+<code>[Data-Driven Marketing Strategies for Rider Conversion : Rider Usage Analysis with R and Tableau](https://github.com/roopadm/Google-Capstone-Project-R-Tableau-Cyclistic/edit/main/README.md)</code> 📊
+
+<code>[A Deep Dive into Indian Hardware Company's Sales Performance: Profit and Revenue Analysis with SQL and Tableau ](https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/edit/main/README.md) </code> 📊
+
